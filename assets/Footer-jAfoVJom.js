@@ -1,1 +1,0 @@
-import{j as e}from"./index-s9xg2lC1.js";const r="/assets/logo-RVCcZvu5.png";function o(){return e.jsxs("footer",{children:[e.jsxs("span",{children:["©",new Date().getFullYear()," Livserv, All rights reserved | Version 1.0"]}),e.jsxs("span",{children:["Powered by. ",e.jsx("a",{href:"/",target:"_blank",children:"Livserv"})]})]})}export{o as F,r as l};
