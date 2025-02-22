@@ -1,0 +1,1 @@
+import{b as n}from"./index-CideBty3.js";const o={},a=(t,s)=>{var e;return(e=o.showDialogFunction)==null?void 0:e.call(o,t,s)},r=()=>{var t;return(t=o.onHideFunction)==null?void 0:t.call(o)};function d(t){const s=n(c=>c.selectedBotId),e=n(c=>c.botsMap[s]);return[s,e]}export{o as d,r as h,a as s,d as u};
