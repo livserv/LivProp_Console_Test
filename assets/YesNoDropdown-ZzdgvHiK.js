@@ -1,0 +1,1 @@
+import{j as t}from"./index-CrvO-MG2.js";import{S as p}from"./TextBox-BAS1ra7T.js";const m=({name:o,value:s,onChange:a,className:l})=>{const n=[{value:"yes",label:"Yes"},{value:"no",label:"No"}],r=e=>a(o,e==="yes");return t.jsx(p,{className:l,options:n,onChange:e=>r(e),value:s?"yes":"no",showClear:!1,placeholder:""})};export{m as Y};
