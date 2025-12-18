@@ -1,0 +1,1 @@
+import{p as r}from"./index-B5a5-Oe8.js";async function a(s){return await r("/organization/forgot-password",{email:s},{noAuth:!0})}async function i(s,o,n){return await r("/organization/reset-password",{password:s,email:o,code:n},{noAuth:!0})}export{i as r,a as s};
