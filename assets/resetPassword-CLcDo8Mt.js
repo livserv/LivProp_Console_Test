@@ -1,1 +1,0 @@
-import{p as r}from"./ajax-C92vMgMI.js";async function e(s){return await r("/organization/forgot-password",{email:s},{noAuth:!0})}async function p(s,o,n){return await r("/organization/reset-password",{password:s,email:o,code:n},{noAuth:!0})}async function i(s,o,n){return await r(`/organization/${n}/update-password`,{currentPassword:s,newPassword:o})}export{p as r,e as s,i as u};
