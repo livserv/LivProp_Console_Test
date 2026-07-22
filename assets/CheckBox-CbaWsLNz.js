@@ -1,0 +1,1 @@
+import{j as h}from"./AlertSnackbar-Cxh2owGf.js";const c=({checked:o,onChange:e,className:s,size:t=20,...x})=>h.jsx("input",{type:"checkbox",checked:o,onChange:e,className:s,style:{width:t,height:t},...x});export{c as C};
